@@ -13,4 +13,5 @@ int main()
     }
 
     cout << "String length is : " << count << endl;
+    cout << "New BUGFIX " <<endl ;
 }
